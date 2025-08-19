@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "images/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/logo.png",
   "keywords": ["uniswap", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "images/tokens/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+      "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/tokens/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
     },
     {
       "name": "WBESC Token",
@@ -24,7 +24,7 @@
       "address": "0x94b8922660Df3AaF0A01E2f89fB2d113E5749C0b",
       "chainId": 1,
       "decimals": 9,
-      "logoURI": "images/tokens/0x94b8922660Df3AaF0A01E2f89fB2d113E5749C0b.png"
+      "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/tokens/0x94b8922660Df3AaF0A01E2f89fB2d113E5749C0b.png"
     },
     {
       "name": "USD Coin",
@@ -32,7 +32,7 @@
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "chainId": 1,
       "decimals": 6,
-      "logoURI": "images/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+      "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
     },
     {
       "name": "Tether USD",
@@ -40,7 +40,7 @@
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "chainId": 1,
       "decimals": 6,
-      "logoURI": "images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+      "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
     },
     {
       "name": "MONEY",
@@ -48,7 +48,7 @@
       "address": "0xFf7EC3764bbe477D6A7928886B532Cc073898e74",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "images/tokens/0xFf7EC3764bbe477D6A7928886B532Cc073898e74.png"
+      "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/tokens/0xFf7EC3764bbe477D6A7928886B532Cc073898e74.png"
     },
     {
       "name": "XRP",
@@ -56,7 +56,7 @@
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "images/tokens/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+      "logoURI": "https://raw.githubusercontent.com/BESCLLC/Tokenlist/main/images/tokens/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
     }
   ]
 }
